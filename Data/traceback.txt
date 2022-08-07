@@ -1,0 +1,12 @@
+Enlaces:
+Contenido:
+https://cincodias.elpais.com/cincodias/2021/09/06/album/1630914510_963969.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2020/02/26/album/1582710969_638598.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2019/08/02/album/1564748578_025517.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2018/12/19/album/1545240743_164276.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2018/11/28/album/1543443161_398269.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2018/02/07/album/1517989115_036159.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2017/07/29/album/1501341837_038644.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2015/05/04/album/1430724849_846785.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2014/05/30/album/1401462757_772580.html. Error: 'NoneType' object has no attribute 'findChild'
+https://cincodias.elpais.com/cincodias/2013/08/13/album/1376414344_222553.html. Error: 'NoneType' object has no attribute 'findChild'
